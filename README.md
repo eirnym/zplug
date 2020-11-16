@@ -1,3 +1,5 @@
+***this is an unofficial repo. I hope original author will review many created PRs eventually**
+
 :us: [:jp:](./doc/guide/ja/README.md)
 
 > Zsh Plugin Manager
